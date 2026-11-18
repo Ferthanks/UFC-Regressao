@@ -1,0 +1,11 @@
+# Ambiente Virtual
+.venv/
+env/
+
+# Dados (Ignorar para não estourar o limite do GitHub)
+data/
+*.csv
+
+# Cache e Notebooks
+__pycache__/
+.ipynb_checkpoints/
